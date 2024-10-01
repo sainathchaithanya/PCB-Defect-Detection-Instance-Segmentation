@@ -26,4 +26,4 @@ I would like to acknowledge the following resources used in this project:
 - Skalski, P. (2022). *Train YOLOv7 Instance Segmentation on Custom Data*. Roboflow Blog. Available at: [https://blog.roboflow.com/train-yolov7-instance-segmentation-on-custom-data/](https://blog.roboflow.com/train-yolov7-instance-segmentation-on-custom-data/)
 - Ariuntuya, A. (2023). *How to Train YOLOv8 Instance Segmentation*. Roboflow Blog. Available at: [https://blog.roboflow.com/how-to-train-yolov8-instance-segmentation/](https://blog.roboflow.com/how-to-train-yolov8-instance-segmentation/)
 
-- 
+[![DOI](https://zenodo.org/badge/864451430.svg)](https://doi.org/10.5281/zenodo.13871861)
