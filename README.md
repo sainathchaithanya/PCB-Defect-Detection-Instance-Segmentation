@@ -33,3 +33,6 @@ I would like to acknowledge the following resources referred to for this project
 - Bhattiprolu, S. (2023). *All about image annotations* from the *python_for_microscopists* repository on GitHub. Available [here](https://github.com/bnsreenu/python_for_microscopists/tree/master/332%20-%20All%20about%20image%20annotations%E2%80%8B).
 - Skalski, P. (2022). *Training YOLOv7 Instance Segmentation on Custom Data* from the Roboflow Blog. Read more [here](https://blog.roboflow.com/train-yolov7-instance-segmentation-on-custom-data/).
 - Ariuntuya, A. (2023). *Training YOLOv8 Instance Segmentation* from the Roboflow Blog. Learn more [here](https://blog.roboflow.com/how-to-train-yolov8-instance-segmentation/).
+
+## License
+This project is licensed under the [MIT License](LICENSE) for the code and the [CC BY 4.0 License](LICENSE_DATASET) for the dataset.
